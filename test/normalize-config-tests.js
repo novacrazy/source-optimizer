@@ -1,6 +1,7 @@
 /**
  * Created by novacrazy on 4/19/2015.
  */
+"use strict";
 
 var assert = require( 'assert' );
 var path = require( 'path' );
