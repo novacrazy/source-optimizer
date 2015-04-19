@@ -1,0 +1,32 @@
+{
+  "name": "source-optimizer",
+  "version": "0.0.1-alpha",
+  "description": "Created as a live-reloading replacement for the RequireJS optimizer base on my Scriptor project as the host.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -Cb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/novacrazy/source-optimizer.git"
+  },
+  "keywords": [
+    "scriptor",
+    "requirejs",
+    "optimizer",
+    "source"
+  ],
+  "author": "Aaron Trent <novacrazy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/novacrazy/source-optimizer/issues"
+  },
+  "homepage": "https://github.com/novacrazy/source-optimizer",
+  "dependencies": {
+    "co": "^4.5.2",
+    "dependency-graph": "^0.1.0",
+    "lodash": "^3.7.0",
+    "scriptor": "^2.3.0-beta",
+    "uglify-js": "^2.4.20"
+  }
+}
