@@ -1,0 +1,9 @@
+{
+  "paths": {
+    "v": "3/v.js"
+  },
+  "shim": {
+    "deps": "b.js",
+    "exports": "K"
+  }
+}
