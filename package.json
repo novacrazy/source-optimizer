@@ -23,11 +23,9 @@
   },
   "homepage": "https://github.com/novacrazy/source-optimizer",
   "dependencies": {
-    "co": "^4.5.2",
+    "bluebird": "^2.9.24",
     "dependency-graph": "^0.1.0",
-    "lodash": "^3.7.0",
-    "scriptor": "^2.3.0-beta",
-    "uglify-js": "^2.4.20"
+    "lodash": "^3.7.0"
   },
   "devDependencies": {
     "mocha": "^2.2.4"
