@@ -28,5 +28,8 @@
     "lodash": "^3.7.0",
     "scriptor": "^2.3.0-beta",
     "uglify-js": "^2.4.20"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4"
   }
 }
