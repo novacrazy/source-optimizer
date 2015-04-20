@@ -6,9 +6,7 @@
 var assert = require( 'assert' );
 var path = require( 'path' );
 
-var normalizeConfig = require( './../lib/normalize-config.js' );
-
-var normalize = normalizeConfig.normalize;
+var normalize = require( './../lib/normalize-config.js' );
 
 var cwd = '.' + path.sep;
 
