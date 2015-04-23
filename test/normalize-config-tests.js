@@ -4,7 +4,7 @@
 "use strict";
 
 var assert = require( 'assert' );
-var path = require( 'path' );
+var path = require( 'path' ).posix;
 
 var normalize = require( './../lib/normalize-config.js' );
 
